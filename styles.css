@@ -310,7 +310,7 @@ img {
 }
 
 .event-img-wrapper1{
-  transform: translateY(20px);
+    height: 10%;
 }
 
 }
